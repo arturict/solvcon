@@ -23,3 +23,4 @@ solvcon is made possible by the following contributors.
 - Yung-Yu Chen <yyc@solvcon.net>
 - Zong-han, Xie <zonghanxie@proton.me>
 - chestercheng <hi@chester.ch>
+- yanagiragi <qaz90473@gmail.com>
