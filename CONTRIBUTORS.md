@@ -22,4 +22,6 @@ solvcon is made possible by the following contributors.
 - Wayne Chou <ck10600760@gmail.com>
 - Yung-Yu Chen <yyc@solvcon.net>
 - Zong-han, Xie <zonghanxie@proton.me>
+- arturict <arturict@users.noreply.github.com>
 - chestercheng <hi@chester.ch>
+- yanagiragi <qaz90473@gmail.com>
